@@ -1,0 +1,6 @@
+{
+  "name": "ZentroPlay - IPTV 4K & FHD",
+  "description": "Plataforma oficial ZentroPlay para serviços de IPTV com planos mensais e semestrais em FHD e 4K, teste grátis, suporte a múltiplos dispositivos e políticas legais completas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

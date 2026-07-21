@@ -1,0 +1,19 @@
+# ZentroPlay - Pastas de Logotipos e Ícones da Empresa
+
+Coloque aqui os seus arquivos de logotipo e ícones para personalizar a sua marca ZentroPlay:
+
+1. `/public/logo.png` ou `/public/logo.svg`
+   - Logotipo principal para o cabeçalho (Navbar) e rodapé do site.
+   - Resolução recomendada: 250 x 80 px (Proporção ~3:1 com fundo transparente PNG ou SVG).
+
+2. `/public/favicon.ico` ou `/public/favicon.png`
+   - Ícone da aba do navegador.
+   - Resolução recomendada: 32 x 32 px ou 64 x 64 px.
+
+3. `/public/icons/app-icon-512.png`
+   - Ícone do aplicativo Web / PWA.
+   - Resolução recomendada: 512 x 512 px.
+
+4. `/public/banners/hero-bg.jpg`
+   - Imagens de fundo e banners de destaque.
+   - Resolução recomendada: 1920 x 1080 px (16:9 4K/FHD).
